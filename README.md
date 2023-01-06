@@ -10,10 +10,10 @@ The goal of the game is for the agent to reach the endpoint in least amount of s
 # Environment
 The environment contains a 10x10 grid containing walls at different locations, a starting point at (1,1) and an end point at (10,10)
 
-#Actions
+# Actions
 The agent can take four actions: up, down, left and right, If the agent bumps into a wall it will return to its previous location with zero reward
 
-#Rewards
+# Rewards
 +10 reward for reaching the goal
 -1 for each step that does not hit a wall
 -5 for each step that hits a wall
