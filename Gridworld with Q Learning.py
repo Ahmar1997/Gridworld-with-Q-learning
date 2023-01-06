@@ -152,14 +152,6 @@ plt.ylabel('Number of steps')
 plt.show()
 
     
-#TO DO
-
-#make the code object oriented
-#tune reward function
-#how to visualize results
-#can add a heat map for Q table
-#set the values of alpha and gamma
-    
     
 
 
